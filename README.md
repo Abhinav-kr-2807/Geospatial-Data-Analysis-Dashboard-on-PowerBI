@@ -4,14 +4,6 @@
 
 This repository contains the code and resources for constructing a robust Data Visualization Dashboard using Power BI. The dashboard utilizes a dataset comprising demographic and educational information for 493 cities across India. The goal is to distill this data into meaningful insights that can inform decision-making in urban planning, education, and gender equality.
 
-## Project Details
-
-- **Project Title:** Geospatial Data Analysis Dashboard
-- **Project Duration:** AIML 2021-25
-- **PRN:** 21070126006
-- **Name:** Abhinav Kumar
-- **Branch and Batch:** AIML A1
-
 ## Problem Statement
 
 The objective is to create an interactive dashboard that visualizes:
