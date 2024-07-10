@@ -39,7 +39,12 @@ The dataset includes:
 
 ## Pictorial Representation of Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+### Dashboard Preview
+
+![Dashboard Preview 1](path/to/your/image1.png)
+
+![Dashboard Preview 2](path/to/your/image2.png)
+
 
 ## Installation Instructions
 
