@@ -41,9 +41,9 @@ The dataset includes:
 
 ### Dashboard Preview
 
-![Dashboard Preview 1](path/to/your/image1.png)
+![Dashboard Preview 1](Page1.PNG)
 
-![Dashboard Preview 2](path/to/your/image2.png)
+![Dashboard Preview 2](Page2.PNG)
 
 
 ## Installation Instructions
